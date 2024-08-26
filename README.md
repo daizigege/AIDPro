@@ -3,4 +3,4 @@
 提取码：ujdp
 
 ## Acknowledgement
-The codes are designed based on https://github.com/neuralchen/SimSwap/tree/main
+Part of codes are  designed based on https://github.com/neuralchen/SimSwap/tree/main
