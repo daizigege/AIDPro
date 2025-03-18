@@ -15,14 +15,16 @@ Part of codes are  designed based on https://github.com/neuralchen/SimSwap/tree/
 
 Cite
 ```
-@ARTICLE{10646362,
-  author={Wang, Tao and Zhang, Yushu and Yang, Zixuan and Xiao, Xiangli and Zhang, Hua and Hua, Zhongyun},
-  journal={IEEE Trans. Biometrics Behav. Identity Sci.}, 
-  title={Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection}, 
-  year={2024},
-  volume={},
+@ARTICLE{10884889,
+  author={Wang, Tao and Wen, Wenying and Xiao, Xiangli and Hua, Zhongyun and Zhang, Yushu and Fang, Yuming},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication}, 
+  year={2025},
+  volume={20},
   number={},
-  pages={1-1},
-  doi={10.1109/TBIOM.2024.3449849}}
+  pages={2564-2576},
+  keywords={Faces;Privacy;Authentication;Protection;Noise;Robustness;Surveillance;Perturbation methods;Face recognition;Data privacy;Image privacy;face protection;information hiding;robustness},
+  doi={10.1109/TIFS.2025.3541859}}
+
 
 ```
