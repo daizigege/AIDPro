@@ -23,7 +23,6 @@ Cite
   volume={20},
   number={},
   pages={2564-2576},
-  keywords={Faces;Privacy;Authentication;Protection;Noise;Robustness;Surveillance;Perturbation methods;Face recognition;Data privacy;Image privacy;face protection;information hiding;robustness},
   doi={10.1109/TIFS.2025.3541859}}
 
 
