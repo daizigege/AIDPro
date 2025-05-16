@@ -16,9 +16,10 @@ import os
 # import pickle
 #todo 按照原始顺序存储
 
-
-img_root_dir = '/media/HDD1/wangtao/lunwen8/original_protecteds/shouyetu/'
-save_path = '/media/HDD1/wangtao/lunwen8/original_protecteds/shouyetu_224/'
+# 原始人脸路径
+img_root_dir = '/media/HDD1//original_protecteds/shouyetu/'
+# 图像对齐路径
+save_path = '/media/HDD1//original_protecteds/shouyetu_224/'
 
 device = torch.device('cuda:0')
 # device = torch.device('cpu')
