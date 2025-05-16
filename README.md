@@ -3,6 +3,8 @@ This repo is the official implementation of
 “Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication”  (2025 TIFS)
 Tao Wang, Wenying Weng*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
+对于输入的人脸（训练或测试），需要使用data_process将其设定为224像素
+
 预训练模型：
 链接：https://pan.baidu.com/s/1nv_jQvPLstwApwpBWmi-4w?pwd=ujdp 
 提取码：ujdp
