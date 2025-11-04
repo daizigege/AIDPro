@@ -3,11 +3,11 @@ This repo is the official implementation of
 “Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication”  (2025 TIFS)
 Tao Wang, Wenying Weng*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
-对于输入的人脸（训练或测试），需要使用data_process将其设定为224像素
 
-预训练模型：
-链接：https://pan.baidu.com/s/1nv_jQvPLstwApwpBWmi-4w?pwd=ujdp 
-提取码：ujdp
+The face alignment processing code must be employed to resize them to 224 pixels with "data_process".  Download insightface_func.zip from our link, if you cannot use it, You may refer to https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md.
+
+
+Pre-trained models and insightface_func: https://drive.google.com/drive/folders/1yO-BJ6mBRHoiiKJfs05N4mwCjS7rm6qJ?usp=sharing
 
 ![image](Teaser_Image.png)
 
