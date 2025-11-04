@@ -6,7 +6,7 @@ Tao Wang, Wenying Weng*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
 Pre-trained models and insightface_func: https://drive.google.com/drive/folders/1yO-BJ6mBRHoiiKJfs05N4mwCjS7rm6qJ?usp=sharing
 
-The face alignment processing code must be employed to resize them to 224 pixels with "data_process". We use the face detection and alignment methods from InsightFace for image preprocessing. Please download the relevant files and unzip them to ./insightface_func/models. More can see https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md 
+The face alignment processing code must be employed to resize them to 224 pixels with "data_process". We use the face detection and alignment methods from InsightFace for image preprocessing. Please download the relevant files and unzip them to ./insightface_func/models. pip install insightface==0.2.1 onnxruntime moviepy
 
 
 
