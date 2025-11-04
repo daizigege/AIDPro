@@ -4,10 +4,12 @@ This repo is the official implementation of
 Tao Wang, Wenying Weng*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
 
-The face alignment processing code must be employed to resize them to 224 pixels with "data_process".  Download insightface_func.zip from our link, if you cannot use it, You may refer to https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md.
-
-
 Pre-trained models and insightface_func: https://drive.google.com/drive/folders/1yO-BJ6mBRHoiiKJfs05N4mwCjS7rm6qJ?usp=sharing
+
+The face alignment processing code must be employed to resize them to 224 pixels with "data_process". We use the face detection and alignment methods from InsightFace for image preprocessing. Please download the relevant files and unzip them to ./insightface_func/models 
+
+
+
 
 ![image](Teaser_Image.png)
 
